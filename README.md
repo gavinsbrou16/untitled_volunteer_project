@@ -1,4 +1,5 @@
 Information Presentation:
+
     Profiles for volunteer and info page for organization
         Volunteers fill profile with stuff they are willing to do and times they are free
     Reporting system
@@ -24,6 +25,7 @@ Functionality:
         Group leader can verify time/sign up of participants
 
 ‘Progression’:
+
     Badges
     Karma system
     Give a way for volunteers to see their real impact
@@ -31,6 +33,7 @@ Functionality:
     Refer a friend
 
 Reputation:
+
     Two-way star rating system
     Go through official organizations
     ???Volunteer clout???
