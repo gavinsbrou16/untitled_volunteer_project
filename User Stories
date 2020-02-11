@@ -1,0 +1,30 @@
+User Stories
+
+@gavinsbrou16
+Things to note
+No matter how many user stories we have, they can ultimately be compressed into 10 major stories. For now this should serve as a means for everyone to mention how they envision the application to function. The more user stories the better!(for right now))
+
+Think of the user/actor as the person using the application.
+User
+organization(type of actor)
+Think of actions as functions within different classes  
+Sign up
+View
+post
+Nouns are usually classes or variables 
+Profiles
+Volunteer hours
+
+EXAMPLES
+
+1. The user will be able to view available volunteer opportunities 
+2. The user will be able to ‘RSVP’ or ‘sign up’ for volunteer opportunities 
+3. Approved organizations will be able to post volunteer opportunities
+4. Users will be able to track volunteer hours
+5. Users will be able to view other Users/Organizations profile
+6.Users will have profiles containing various variables such as total hours logged etc
+
+
+@gavinsbrou16
+
+
